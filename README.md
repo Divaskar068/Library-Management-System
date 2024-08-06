@@ -15,4 +15,5 @@ The GUI is simple and further modifications are easy, adjust frame size for prop
 <img width="315" alt="Screenshot 2024-08-06 at 11 21 39 AM" src="https://github.com/user-attachments/assets/f3659a42-e823-4ffb-b14d-dd8787466966">
 <img width="390" alt="Screenshot 2024-08-06 at 11 32 00 AM" src="https://github.com/user-attachments/assets/f09a37d9-fda9-4af2-b858-3dbb446c4d14">
 <img width="520" alt="Screenshot 2024-08-06 at 11 32 19 AM" src="https://github.com/user-attachments/assets/92e2c30b-b519-42e4-97bc-483b1859d695">
-<img width="398" alt="Screenshot 2024-08-06 at 11 34 39 AM" src="https://github.com/user-attachments/assets/e2605059-d212-441c-8944-7b4f8386e90d">
+<img width="418" alt="Screenshot 2024-08-06 at 11 33 02 AM" src="https://github.com/user-attachments/assets/ce2911c0-0ea1-471a-bae2-084d2010f146">
+
